@@ -1,0 +1,82 @@
+Interview_ID;Days;Interview_code;X;Y;Language;Gender;Stakeholder;Tribe;Stakeholder_details;Admin_level;Village;Sub-county;District;Region;Poverty;Land tenure;Land fragmentation;Conflicts;Population growth;awareness;skills;interest;Resistance;Weather;Laws;Bush fire;Inputs;Extension;Drought;Storm;Pest;Women;Mulching;Trenches;Terraces; Agroforestry; Grass bands; SWC; Zero grazing; Manure; Intercropping; Check dam;Water harvesting;Relevant_comments;Links barriers;Production increase;Farm_size (hecres);Style;SLM_practice_1;SLM_practice_2;SLM_practice_3;SLM_practice_4;SLM_practice_5
+1;1;Kabale.day1.1;29.9909;-1.2231;ENG;M;Officer;Bakiga;Principal agricultural officer - extension;LC5;;;Kabale;South-West;3;;;;;1;2;;;;4;;;;;5;;;;;;;;;;;;;;Now only the carrot method;;;;;0;0;0;0;0
+2;1;Kabale.day1.2;29.943;-1.403;ENG;M;Officer;Bakiga;Agricultural officer - extension;LC3;;Rubaya;Kabale;South-West;4;;2;;;1;5;;3;;;;;;;;;;;;;;;;;;;;;The work (extention) can't be done with force;;;;;0;0;0;0;0
+3;1;Kabale.day1.3;29.9658;-1.2528;ENG;F;Officer;Bakiga;Agricultural officer - extension;LC5;;;Kabale;South-West;;;2;4;1;;;;;;3;;;5;;;;;;;;;;;;;;;;With strong laws we can force the reluctant;;;;;0;0;0;0;0
+4;1;Kabale.day1.4;29.9797;-1.2257;ENG;M;Officer;Bakiga;Natural resources officer;LC5;;;Kabale;South-West;;;1;;3;2;;;;;5;;;;;;;;;;;;;;;;;;;Carrot and stick method;;;;;0;0;0;0;0
+5;1;Kabale.day1.5;29.9677;-1.2665;ENG;M;Researcher;Bakiga;NARO;;;;Kabale;South-West;;;;;;;;;1;;;;;2;;3;;;;;;;;;;;;;;Rwanda good example of law enforcment ;Extension should create awareness. Land fragmentation lead to conflicts and tenure system hinder women empowerment;;;;0;0;0;0;0
+6;1;Kabale.day1.6-8;29.9343;-1.2862;Rukiga;M;Farmer;Bakiga;;;Kariiko;Kitumba;Kabale;South-West;;;4;;;;3;;;;1;;2;5;;;;;;1;;1;1;1;1;;;;;;;80%;2.5;Now can hire labour;Trenches; Agroforestry; Grass bands; SWC; Zero grazing
+7;1;Kabale.day1.6-8;29.9549;-1.2856;Rukiga;F;Farmer;Bakiga;;;Kariiko;Kitumba;Kabale;South-West;;;3;;;;;;;;;;2;4;;;1;;;;;1;1;;1;1;;;;;;1/2 bags -> 4/5 bags (sorgum);1;;Zero grazing; Manure; Agroforestry; Grass bands;0
+8;1;Kabale.day1.6-8;29.9620;-1.3020;Rukiga;M;Policy_maker;Bakiga;;LC1;Kariiko;Kitumba;Kabale;South-West;;;5;;;3;;;;;2;;4;;;;1;;;;;;;;1;1;;;;;;;;;Manure; Zero grazing;0;0;0
+9;2;;29.942235;-1.451967;Rukiga;M;Farmer;Bakiga;;;Kagyera;Rubaya;Kabale;South-West;;;2;3;;;;;;;4;;1;;;;;;;1;1;1;;;;;;;;;;2 bags -> 5 bags;2;Subsistance (sell the excess to the local market);Trenches; Agroforestry; Terraces;0;0
+10;2;;29.929643;-1.460149;Rukiga;F;Farmer;Bakiga;;;Muguri;Rubaya;Kabale;South-West;;;4;;;;;3;;1;;;2;;;;5;;;1;1;1;;;;;;1;;;Heavy Rainfall demoralize people (lack of interest);2 bags -> 5 bags;2;Subsistance (sell the excess to the local market);Trenches; Agroforestry; Terraces; Check dam;0
+11;2;;29.935906;-1.464297;ENG;M;Officer;Bakiga;Sub-county Chief;LC3;;Rubaya;Kabale;South-West;1;;4;;2;;;;;;;;;;;;3;5;;;;;;;;;;;;Support women;Land fragmentation creates conflicts in the clan;;;;0;0;0;0;0
+12;2;;29.936072;-1.459407;ENG;M;Policy_maker;Bakiga;Sub-county Chairman;LC3;;Rubaya;Kabale;South-West;1;;2;;3;4;;;5;;;;;;;;;;;;;;;;;;;;;Support women;;;;;0;0;0;0;0
+13;2;;29.943838;-1.456644;Rukiga;M;Farmer;Bakiga;Champion farmer;;Kagyera;Rubaya;Kabale;South-West;;;5;;;4;1;;;;2;;3;;;;;;;1;;;;;;;;1;;Polygamy - 3 wives;;;30;;Trenches; Check dam;0;0;0
+14;2;;30.01530;-1.26258;ENG;M;Farmer;Bakiga;;;Nyakahita;Kyanamira;Kabale;South-West;;;;;;1;;;;;;;;2;;;;;;;;1;;;;;;;;Apple trees person;;;;;Agroforestry;0;0;0;0
+15;3;;29.841821;-1.184964;ENG;M;Officer;Bakiga;Local extension facilitator;LC1;Nfasha;Muko;Rubanda;South-West;;;5;;3;;;;;;2;;;1;;4;;;;1;;1;;;;;;;;Bosco;;;;;Trenches; Agroforestry;0;0;0
+16;3;;29.844944;-1.182705;Rukiga;M;Farmer;Bakiga;;;Nfasha;Muko;Rubanda;South-West;2;;3;1;;;;;;;5;;2;4;;;;;1;1;;1;;;;;;;;;;;;;Trenches; Agroforestry; Mulching;0;0
+17;3;;29.8276;-1.2692;Rukiga;F;Farmer;Bakiga;;;Nfasha;Muko;Rubanda;South-West;3;;;;;4;;2;;;;;1;;;;;;1;1;;1;;;;;;;;;;;;;Trenches; Agroforestry; Mulching;0;0
+18;3;;29.8649;-1.3459;ENG;M;Officer;Bakiga;Sub-county Chief;LC3;;Bufundi;Rubanda;South-West;;;1;;2;;5;;3;;;;;4;;;;;;1;;1;1;;;1;;;;;;;;;Trenches; Agroforestry; Grass bands; Manure;0
+19;3;;29.8624;-1.3357;Rukiga;M;Officer;Bakiga;Local court Chairman;LC3;;Bufundi;Rubanda;South-West;4;;;;;;;1;;;5;;3;;;2;;;1;;1;;;;;;;;;;;;;;Terraces; Mulching;0;0;0
+20;3;;29.8771;-1.3201;ENG;M;Farmer;Bakiga;Chairman of innovation platform LC3;;Kacerere;Bufundi;Rubanda;South-West;1;;;;;;;;;;;;;3;;;2;;1;;1;;;1;;;;;;;;;;;Terraces; Mulching; Agroforestry; SWC;0
+21;3;;29.8922;-1.3874;ENG;F;Farmer;Bakiga;;;Kacerere;Bufundi;Rubanda;South-West;;;1;;2;4;;;;;;;;;;3;;5;;;;;;;;;;;;;;;;;0;0;0;0;0
+22;4;;31.5853;-0.2311;Luganda;M/F;Farmer;Baganda;FGD (10);;Mikomago;Buyinja;Masaka;Centre;;;;;;2;;;3;;;;4;;1;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+23;4;;31.5939;-0.2472;Luganda;M/F;Policy_maker;Baganda;2 ppl (woman representative counciler/counciler);LC3;;Buyinja;Masaka;Centre;;;;;;2;;;3;;;;4;;1;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+24;4;;31.5941;-0.2478;ENG;M/F;Farmer;Baganda;2 ppl (youth);;Mikomago;Buyinja;Masaka;Centre;;;;;;2;;;3;;;;4;;1;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+25;4;;31.5945;-0.2476;Luganda;M;Farmer;Baganda;Champion farmer;;Mikomago;Buyinja;Masaka;Centre;;;;;;3;1;;2;;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+26;4;;31.5896;-0.2509;Luganda;F;Farmer;Baganda;;;Mikomago;Buyinja;Masaka;Centre;;;;;;;;;3;;;;2;;1;;;;;;1;;;;;;1;;;;;;;;Trenches; Intercropping;0;0;0
+27;4;;31.6365;-0.2521;Luganda;M;Farmer;Baganda;;;Mikomago;Buyinja;Masaka;Centre;;;;;;;;;;;;;;;;;;;;1;;;;;;;;;1;;;;;;Trenches; Water harvesting;0;0;0
+28;4;;31.7573;-0.5590;ENG;M;Officer;Baganda;Agricultural officer - extension;LC3;;Buyinja;Masaka;Centre;;;1;;;3;;;2;;;;;4;5;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+29;5;;31.7258;-0.5528;Luganda;M/F;Farmer;Baganda;FGD (2 female, 4 male);;Kyajjungu ;Kyanamukaka;Masaka;Centre;;;;;;5;;3;;;;;1;4;;;2;;1;1;;1;;;;;;;;;;;;;Trenches; Agroforestry; Mulching;0;0
+30;5;;31.7400;-0.5362;Luganda;F;Farmer;Baganda;;;Kyajjungu ;Kyanamukaka;Masaka;Centre;;;;;;;;;;;;;;;2;;1;;1;1;;;1;;;1;;;;;;;;;Trenches; Mulching; Manure; Grass bands;0
+31;5;;31.7721;-0.5371;Luganda;M;Farmer;Baganda;;;Kyajjungu ;Kyanamukaka;Masaka;Centre;;;;;;;;;;;;;2;1;3;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+32;;;32.4663;0.0681;ENG;M;Officer;;Dr. Patience;;;;National;National;;1;;;4;;;;;3;2;;;5;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+33;;;32.4663;0.0681;ENG;M;Officer;;;;;;National;National;;;4;;;;2;;;3;1;5;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+34;;;32.4663;0.0681;ENG;M;Researcher;;;;;;National;National;1;;;;3;;;;;;4;;5;2;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+35;;;32.4663;0.0681;ENG;F;Researcher;;;;;;National;National;1;;2;;;;;;;4;;;;3;5;5;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+36;20-Dec;;32.4663;0.0681;ENG;M;Officer;;Commitionair in the Ministry of Land;;;;National;National;1;2;;;;;3;;;;5;;;;;;4;;;;;;;;;;;;;;;;;;0;0;0;0;0
+37;20-Dec;;32.4663;0.0681;ENG;M;Officer;;Commitionair in the Ministry of Water and Environment;;;;National;National;;;1;;2;;3;;;4;;;;;;;5;;;;;;;;;;;;;;;;;;0;0;0;0;0
+38;1;;34.441;1.319;ENG;M;Officer;Sabiny;Agricultural officer - extension;LC5;;;Kapchorwa;East;5;;;;;1;2;;;;4;;;3;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+39;1;;34.624;1.447;ENG;M;Officer;Sabiny;Agricultural officer - extension;LC5;;;Kween;East;;;4;;3;1;5;;;;;;2;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+40;1;;34.624;1.447;ENG;M;Officer;Sabiny;Natural resouces officer;LC5;;;Kween;East;;;3;;2;;;5;;;4;;;;;1;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+41;1;;34.624;1.447;ENG;M;Policy_maker;Sabiny;District chairman;LC5;;;Kween;East;;1;;;2;;5;;;;3;;;;;;;4;;;;;;;;;;;;;;;;;0;;;;0
+42;1;;34.631;1.427;Kupsabiny;M/F;Farmer;Sabiny;FGD (2 female, 2 male);;Tolit;Twikat;Kween;East;;;1;;;2;;;;;4;;;5;;;;3;;1;1;1;1;;;;;;;;;;;;Terraces; Trenches; Agroforestry; Grass bands;0
+43;2;;34.409;1.346;Kupsabiny;M/F;Farmer;Sabiny;FGD (2 female, 1 male);;Arokwo;West Division Cell;Kapchorwa;East;;;;;;;;2;1;;;;3;;;;4;;;1;1;1;1;;;;;;;;;;;;Terraces; Trenches; Agroforestry; Grass bands;0
+44;2;;34.442;1.307;Kupsabiny;M;Farmer;Sabiny;;;Kapcheput;Chema;Kapchorwa;East;1;;;;;;2;;;;4;;3;5;;;;;;1;;;;;;;1;;;;;;;;Trenches; Intercropping;0;0;0
+45;2;;34.442;1.307;Kupsabiny;F;Farmer;Sabiny;;;Kapcheput;Chema;Kapchorwa;East;;;;4;1;5;2;;;;;;3;;;;;;;1;;1;;;;;;;;;;;;;Trenches; Agroforestry;0;0;0
+46;2;;34.442;1.307;Kupsabiny;M;Farmer;Sabiny;;;Kapcheput;Chema;Kapchorwa;East;1;;2;;;3;;;;;;;4;;;;5;;;1;;1;1;;;;;;;;;;;;Trenches; Agroforestry; Grass bands;0;0
+47;2;;34.442;1.307;Kupsabiny;F;Farmer;Sabiny;;;Kapcheput;Chema;Kapchorwa;East;1;;2;;;;3;4;;;;;5;;;;;;;1;;;1;;;;;;;;;;;;Trenches; Grass bands;0;0;0
+48;2;;34.399;1.367;Kupsabiny;F;Farmer;Sabiny;;;Chemonges;Central Division;Kapchorwa;East;;;;;;;3;;5;;;;1;;;;4;2;;1;;;;1;;;;;;;;;;;Trenches; SWC;0;0;0
+49;3;;34.4533;1.4017;ENG;M;Officer;Sabiny;Agricultural officer;LC5;;;Kapchorwa;East;2;;1;;;;5;;;3;4;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+50;3;;34.4507;1.3924;ENG;M;Officer;Sabiny;Natural resources officer;LC5;;;Kapchorwa;East;2;;1;;;;3;;4;;5;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+51;3;;34.4547;1.4018;ENG;M;Policy_maker;Sabiny;Vice chairman;LC5;;;Kapchorwa;East;4;;1;;2;;;;;3;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+52;3;;34.4462;1.3986;ENG;F;Officer;Sabiny;Principal assistant secretary;LC5;;;Kapchorwa;East;;;1;;2;;;;4;3;5;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+53;1;Kitgum.day1.1;32.942;3.261;ENG;M;Farmer;Acholi;;;Putuke east;Kitgum-Matidi;Kitgum;North;1;;;;;2;3;;;;;;;5;;;4;;1;;;;;;;;;;;;;;;;Mulching;0;0;0;0
+54;1;;33.033;3.194;Luo;M;Farmer;Acholi;;;Balakwar;Lagoro;Kitgum;North;1;;;;;;4;;;2;;;5;;;;3;;;;;1;;;;;;;;;;;;;Agroforestry;0;0;0;0
+55;1;;33.101;3.188;Luo;M;Farmer;Acholi;;;Balakwar;Lagoro;Kitgum;North;2;;;;;1;;;;;;;4;3;;;5;;1;;;1;;;;;;;;;;;;;Agroforestry; Mulching;0;0;0
+56;1;;33.110;3.177;Luo;F;Farmer;Acholi;;;Balakwar;Lagoro;Kitgum;North;3;;;;;1;2;;;5;;;;4;;;;;1;;;;;;;;1;;;;;;;;Mulching; Intercropping; SWC;0;0
+57;1;;33.099;3.157;Luo;F;Farmer;Acholi;;;Balakwar;Lagoro;Kitgum;North;1;;;4;;2;3;;;;;;;;;;5;;;;;1;;;;;1;;;;;;;;Agroforestry; Intercrpping;0;0;0
+58;1;;33.044;3.152;ENG;M;Policy_maker;Acholi;Sub-county Chairman;LC3;;Lagoro;Kitgum;North;;;;1;5;;2;;;;3;4;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+59;1;;33.101;3.241;ENG;M;Officer;Acholi;Production Officer;LC5;;;Kitgum;North;5;;;;;1;;;3;4;;;;2;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+60;1;;33.125;3.236;ENG;M;Officer;Acholi;Assistant agricultural officer - extension;LC3;;Lagoro;Kitgum;North;4;;;;;;3;;1;;;;;5;;;2;;;;;;;;;;;;;;;;;;0;0;0;0;0
+61;15-Dec;;32.918;3.334;Luo;M;Farmer;Acholi;;;;Labongo-Amida;Kitgum;North;;;;;;;4;3;;;;2;5;1;;;;;;;;;;;;;1;;;;;before 4/5 buckets ot tomatoes per row -> 6/9;;;Agroforestry; Intercrpping;0;0;0
+62;15-Dec;;32.911;3.378;Luo;F;Farmer;Acholi;;;;Labongo-Amida;Kitgum;North;;;;;;;3;;;2;;;5;4;;;;1;;;;;;;;1;;;;;;before 2bags -> after 6-8bags;;;Mulching; Manure;0;0;0
+63;16-Dec;;32.368;2.803;Luo;F;Farmer;Acholi;;;Oding;Unyama;Gulu;North;1;3;;3;4;;;;;5;;;;;;;;2;1;;;;;;;;1;;;;;;;;Mulching; Intercropping;0;0;0
+64;16-Dec;;32.3360;2.7849;Luo;M;Farmer;Acholi;;;Oding;Unyama;Gulu;North;1;2;;2;4;;;;;5;;;;;;;;3;1;;;;;;;;1;;;;;;;;Mulching; Intercropping;0;0;0
+65;16-Dec;;32.405;2.814;ENG;M;Policy_maker;Acholi;Chairman;LC1;Oding;Unyama;Gulu;North;1;2;;2;;;4;;;5;;;;;;;3;;1;;;;;;;;;;;;;;;;0;0;0;0;0
+66;16-Dec;;32.425;2.810;Luo;M;Farmer;Acholi;;;Oding;Unyama;Gulu;North;1;3;;3;;;2;4;;5;;;;;;;;;1;;;1;;;;;;;;;;;;;Agroforestry; Mulching;0;0;0
+67;16-Dec;;32.469;2.822;ENG;M;Policy_maker;Acholi;Sub-county Chairman;LC3;;Unyama;Gulu;North;2;1;4;1;5;;;;;;;;;;;;;3;;;;;;;;;;;;;;;;;0;0;0;0;0
+68;16-Dec;;32.513;2.818;ENG;M;Officer;Acholi;Agricultural officer - extension;LC3;;Unyama;Gulu;North;1;;;;;2;4;;;;;5;;3;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+69;16-Dec;;32.282;2.994;ENG;M;Officer;Acholi;Agricultural officer - extension;LC3;;Patiko/Owoo;Gulu;North;;1;;1;;;3;;;4;;2;;;;;;5;;;;;;;;;;;;;;;;;0;0;0;0;0
+70;16-Dec;;32.2868;2.8111;ENG;F;Officer;Acholi;Agricultural officer;LC5;;;Gulu;North;1;3;;2;;5;;;;;;;;;;;;3;;;;;;;;;;;;;;;;;0;0;0;0;0
+71;18-Dec;;32.3220;2.7321;ENG;F;Policy_maker;Acholi;Secretaty production;LC5;;;Gulu;North;1;;3;2;;;4;;;;;;;;;;;5;;;;;;;;;;;;;;;;;0;0;0;0;0
+72;17-Dec;;32.361;2.703;ENG;M;Officer;Acholi;Sub-county Chief;LC3;;Koro;Omoro;North;3;;;;1;;;;;5;2;4;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+73;17-Dec;;32.497;2.699;ENG;M;Officer;Acholi;Agricultural officer - extension;LC3;;Lalogi;Omoro;North;1;;;;;3;2;4;;5;;;;;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+74;17-Dec;;32.322;2.580;ENG;M;Officer;Acholi;Agricultural officer - extension;LC3;;Bobi;Omoro;North;2;;;;;3;4;5;;;;;;1;;;;;;;;;;;;;;;;;;;;;0;0;0;0;0
+75;17-Dec;;32.333;2.731;Luo;F;Farmer;Acholi;;;Abili;Koro;Omoro;North;;;;;;;;;;;;;;;;;;;1;;;1;;;;;1;;;;;;;;Agroforestry; Mulching; Intercropping;0;0
+76;17-Dec;;32.361;2.556;Luo;M;Farmer;Acholi;;;Pato;Bobi;Omoro;North;;;;;;;;3;;1;;;;;;;2;;1;;;1;;;;;;;1;;;;;;Agroforestry; Mulching; Water harvesting;0;0
+76;17-Dec;;32.361;2.556;Luo;M;Farmer;Acholi;;;Pato;Bobi;Omoro;North;;;;;2;;;1;;4;;;3;;;;;5;1;;;1;;;;;;;1;;;;;;Agroforestry; Mulching; Water harvesting;0;0
+77;17-Dec;;32.373;2.516;Luo;M;Farmer;Acholi;;;Pato;Bobi;Omoro;North;1;2;;2;;;;3;;;5;;;;;;4;;1;;;1;;;;;1;;1;;;;;;Agroforestry; Mulching; Intercropping; Water harvesting;0
+78;17-Dec;;32.337;2.516;Luo;M;Farmer;Acholi;;;Pato;Bobi;Omoro;North;2;;3;;;1;4;;;;;;;;;;5;;1;;;1;;;;;;;1;;;;;;Agroforestry; Mulching; Water harvesting;;0
+79;17-Dec;;32.298;2.568;ENG;M;Farmer;Acholi;Chairman;LC3;;Bobi;Omoro;North;1;2;;;;;3;;5;4;;;;;;;5;;;;;;;;;;;;;;;;;;0;0;0;0;0
+80;17-Dec;;32.337;2.512;ENG;M;Policy_maker;Acholi;Sub-county Chairman;LC3;;Bobi;Omoro;North;1;3;;2;;;4;;;;;;;;;;;5;;;;;;;;;;;;;;;;;0;0;0;0;0
